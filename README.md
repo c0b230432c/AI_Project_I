@@ -44,9 +44,9 @@ Pythonを使用し、MinMax探索などを使用してゲームを行うプロ�
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
 ## プログラム説明
-[C0B23043_Connect4_minmax.py](https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_Connect4_minmax.py).<br>
+[C0B23043_Connect4_minmax.py](https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_Connect4_minmax.py)<br>
 Connect4をMinmax探索と評価関数を与え繰り返し学習させ、手を打つプログラム。<br>
-[C0B23043_Randomms_RuleAI_Minesweeper.py](https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_Randomms_RuleAI_Minesweeper.py).<br>
+[C0B23043_Randomms_RuleAI_Minesweeper.py](https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_Randomms_RuleAI_Minesweeper.py)<br>
 マインスイーパーをランダムな盤面で制作し、1-1ルールを取り入れ、解いていくプログラム。<br>
 [C0B23043_TicTacToe_MiniMax.py](https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_TicTacToe_MiniMax.py)<br>
 OXゲームをMinmax探索を使うAIとランダムに手を打つAIで対戦させるプログラム<br>
