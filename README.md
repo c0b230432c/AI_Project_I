@@ -21,22 +21,9 @@
 4. [開発環境構築](#開発環境構築)
 5. [トラブルシューティング](#トラブルシューティング)
 
-<!-- READMEの作成方法のドキュメントのリンク -->
-<br />
-<div align="right">
-    <a href="READMEの作成方法のリンク"><strong>READMEの作成方法 »</strong></a>
-</div>
-<br />
-<!-- Dockerfileのドキュメントのリンク -->
-<div align="right">
-    <a href="Dockerfileの詳細リンク"><strong>Dockerfileの詳細 »</strong></a>
-</div>
-<br />
-<!-- プロジェクト名を記載 -->
+## 人工知能プロジェクト実習
 
-## プロジェクト名
-
-React、DRF、Terraform のテンプレートリポジトリ
+Pythonを使った人工知能を使用したプロジェクトの開発
 
 <!-- プロジェクトについて -->
 
