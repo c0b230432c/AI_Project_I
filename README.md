@@ -45,4 +45,16 @@ Pythonを使用し、MinMax探索などを使用してゲームを行うプロ�
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
+## プログラム説明
+[C0B23043_Connect4_minmax.py]((https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_Connect4_minmax.py)).
+Connect4をMinmax探索と評価関数を与え繰り返し学習させ、手を打つプログラム。
+[C0B23043_Randomms_RuleAI_Minesweeper.py](https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_Randomms_RuleAI_Minesweeper.py).
+マインスイーパーをランダムな盤面で制作し、1-1ルールを取り入れ、解いていくプログラム。
+[C0B23043_TicTacToe_MiniMax.py](https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_TicTacToe_MiniMax.py)
+OXゲームをMinmax探索を使うAIとランダムに手を打つAIで対戦させるプログラム。
+[C0B23043_mazeAI_astar.py](https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_mazeAI_astar.py)
+迷路探索をA*探索を使用して行うプログラム。
+[C0B23043_mazeAI_breadth_search.py](https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_mazeAI_breadth_search.py)
+迷路探索を幅優先探索とdijkstra探索を使用して行うプログラム。
+
 <p align="right">(<a href="#top">トップへ</a>)</p>
