@@ -17,9 +17,7 @@
 
 1. [プロジェクトについて](#プロジェクトについて)
 2. [環境](#環境)
-3. [ディレクトリ構成](#ディレクトリ構成)
-4. [開発環境構築](#開発環境構築)
-5. [トラブルシューティング](#トラブルシューティング)
+3. [プログラム説明](#プログラム説明)
 
 ## 人工知能プロジェクト実習
 
@@ -47,6 +45,7 @@ Pythonを使用し、MinMax探索などを使用してゲームを行うプロ�
 
 ## プログラム説明
 [C0B23043_Connect4_minmax.py]((https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_Connect4_minmax.py)).
+<br>
 Connect4をMinmax探索と評価関数を与え繰り返し学習させ、手を打つプログラム。
 [C0B23043_Randomms_RuleAI_Minesweeper.py](https://github.com/c0b230432c/AI_Project_I/blob/main/C0B23043_Randomms_RuleAI_Minesweeper.py).
 マインスイーパーをランダムな盤面で制作し、1-1ルールを取り入れ、解いていくプログラム。
